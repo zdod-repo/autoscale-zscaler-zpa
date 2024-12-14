@@ -41,5 +41,5 @@ This repository provides automation scripts and tools to dynamically scale **Zsc
 ## Getting Started
 
 1. Clone this repository:
-   ```bash
+   bash
    git clone https://github.com/autoscale-zpa/zpa-scaling-automation.git
